@@ -1,0 +1,8 @@
+
+build
+dist
+test
+res
+*.log
+*.log.1
+*.log.2
